@@ -364,7 +364,8 @@ a:hover {
   }
   
   .card{
-    width: calc(34% - 22px);
+    width: 220px;
+    height: 290px;
     background-color: var(--main-color);
     color: #fff;
     padding: 40px 12px;
@@ -431,3 +432,11 @@ a:hover {
     transform: rotate(13deg);
     background-color: white;
   }
+.content{
+    position: absolute;
+    left: 110px;
+}
+.servicesmainheading{
+    position: relative;
+    top: 30px;
+}
