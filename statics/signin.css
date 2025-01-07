@@ -1,8 +1,9 @@
-.logindiv{
+.logindiv {
     position: relative;
     top: 200px;
 }
-.switchdiv{
+
+.switchdiv {
     position: relative;
     left: 43%;
     top: 180px;

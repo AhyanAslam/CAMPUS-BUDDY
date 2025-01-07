@@ -414,6 +414,7 @@ a:hover {
     background: white;
     color:var(--main-color);
     border-color: var(--main-color);
+
   }
   
   .card::after {
@@ -431,6 +432,7 @@ a:hover {
   .card:hover::after{
     transform: rotate(13deg);
     background-color: white;
+
   }
 .content{
     position: absolute;
